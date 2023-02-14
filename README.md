@@ -1,6 +1,6 @@
 # Minor recreation of printf.
 
-Uses that have been recreated:
+- Uses that have been recreated:<br></br>
 <br>• %c Prints a single character.</br>
 <br>• %s Prints a string (as defined by the common C convention).</br>
 <br>• %p The void * pointer argument has to be printed in hexadecimal format.</br>
